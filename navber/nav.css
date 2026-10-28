@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /* background-color: rgb(33, 33, 33);
+    color: white; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar{
+    background-color: rgb(29, 28, 28);
+    color: aliceblue;
+}
+
+.nav-title{
+    /* background-color: aqua; */
+    width: 24%;
+    padding: 3px 10px;
+    display: inline-block;
+}
+
+.nav-list{
+    /* background-color: blueviolet; */
+    width: 74%;
+    display: inline-block;
+    /* display: none; */
+    text-align: right;
+}
+
+.nav-item{
+    /* background-color: tomato; */
+    display: inline-block;
+    padding: 5px 10px;
+
+}
+
+.nav-link{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.card{
+    background-color: aqua;
+    width: 30%;
+    /* float: left; */
+    display: inline-block;
+    margin: 10px;
+}
+
+/* .clr{
+    clear: both;
+} */
+
+.img-top{
+    width: 100%;
+}
+

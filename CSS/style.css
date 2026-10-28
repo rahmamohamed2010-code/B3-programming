@@ -1,0 +1,43 @@
+body{
+    color: white;
+    text-align: center;
+}
+.card{
+    width: 250px;
+    padding: 15px;
+    margin: 20px auto;
+    border: 5px solid blue;
+    font-family: \ Arial,sans-serif;
+    background: linear-gradient(190deg, #c973ff, #aebaf8);
+
+}
+h2{
+    color: blue;
+    text-transform: uppercase;
+    text-decoration: underline;
+    letter-spacing: 1.5;
+    word-spacing: 5px;
+}
+ul{
+    text-align: center;
+    padding-left: 2px;
+    list-style-type: square;
+    list-style-position: inside;
+    line-height: 1.8;
+}
+.higlight{
+    display: inline;
+    color: red;
+    font-weight: bold;
+    
+}
+.btn{
+    display: inline-block;
+    background: blue;
+    padding: 5px 10px;
+
+}
+.hidden{
+    display: none;
+   /* block*/
+}

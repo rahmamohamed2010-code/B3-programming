@@ -1,0 +1,13 @@
+.card{
+    background-image: url(image/WhatsApp\ Image\ 2026-09-26\ at\ 5.10.33\ PM\ \(3\).jpeg);
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+p{
+    color: aliceblue;
+    font-weight: 900;
+    font-size: 15px;
+    line-height: 1.5;
+}
